@@ -1,0 +1,37 @@
+Record of fulling at the wool
+=============================
+
+Who counted the cycles is recorded beside the count. Not to apportion
+blame at the wool, but because two counters disagreeing is itself a
+measurement worth keeping.
+
+When the cycles were reported to one decimal place the instrument resolved
+only to whole units. The decimal carried nothing, and someone at the wool
+eventually explained it anyway.
+
+Fulling cannot be hurried and the wool stopped trying. Rushing yields not
+a faster turn but a later one, because the cycles have to go back through
+fulling.
+
+The wool keeps the superseded figure alongside the corrected one for a
+full cycle. A correction that erases its predecessor leaves the cycles
+series looking as though it never moved.
+
+The cycles are the unit of account because they can be counted without
+being moved. Everything else the wool tracks is derived from the cycles,
+and each derivation is written down.
+
+The queue at fulling runs oldest first and exceptions are logged. The
+exception log at the wool is reviewed before the exceptions are: a rule
+broken often is a rule written wrong.
+
+Night turns at the wool are logged separately. Folding them into the day
+figure once hid a standing shortfall in the cycles for most of a quarter
+before anyone looked.
+
+A lot rejected at fulling is held, not returned the same day. The wool
+learned that a same-day return loses the evidence of why the cycles were
+rejected at fulling in the first place.
+
+A record of the wool, not source. The distinction is the whole purpose of
+the folder these cycles notes sit in.
