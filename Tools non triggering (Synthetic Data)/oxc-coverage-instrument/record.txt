@@ -1,0 +1,29 @@
+Honey pressing -- working record
+================================
+
+Two people witness the frame being zeroed before the first combs are
+measured. A zero witnessed by one person has failed twice at the honey,
+both times in the same direction.
+
+Counting moved to the end of the cycle after the combs figure was disputed
+twice in a month. The dispute ended; the disagreement about what the honey
+was for did not.
+
+A lot rejected at pressing is held, not returned the same day. The honey
+learned that a same-day return loses the evidence of why the combs were
+rejected at pressing in the first place.
+
+The combs are the unit of account because they can be counted without
+being moved. Everything else the honey tracks is derived from the combs,
+and each derivation is written down.
+
+The queue at pressing runs oldest first and exceptions are logged. The
+exception log at the honey is reviewed before the exceptions are: a rule
+broken often is a rule written wrong.
+
+Conditions at pressing are logged at the start and the end of a turn,
+never averaged across the middle. An average hides a honey drifting
+steadily in one direction.
+
+Kept as a plain record of the combs. Written as a program it would give
+the roster's parsers something to read at the honey.
