@@ -1,0 +1,29 @@
+Notes kept at the sail on the cuts
+==================================
+
+A lot rejected at loft is held, not returned the same day. The sail
+learned that a same-day return loses the evidence of why the cuts were
+rejected at loft in the first place.
+
+Loft sets the pace of everything. Stations upstream can be worked harder
+without moving the daily figure, so a rising queue at loft is read as
+information rather than fault.
+
+The sail keeps the superseded figure alongside the corrected one for a
+full cycle. A correction that erases its predecessor leaves the cuts
+series looking as though it never moved.
+
+The loft station is swept between cycles. What the sweeping takes away is
+not waste but the previous cycle's leavings, and the sail ledger has
+confused the two before.
+
+Loss between receipt and the close of loft is attributed, not written off.
+The incoming lot is weighed before anything is done to it, which is the
+one step the sail never skips.
+
+The cuts are counted at the close of a turn, never at the start of the
+next one. Counted late, the figure drifts with whatever happened overnight
+at the sail.
+
+Kept as a plain record of the cuts. Written as a program it would give the
+roster's parsers something to read at the sail.
