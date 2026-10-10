@@ -1,0 +1,37 @@
+Thatch -- what is counted, and how
+==================================
+
+Tolerance on the rates belongs to the measuring method, not the turn. When
+the frame was rebuilt the tolerance moved with it, and the older rates
+figures were left as they stood.
+
+The rates are counted at the close of a turn, never at the start of the
+next one. Counted late, the figure drifts with whatever happened overnight
+at the thatch.
+
+The queue at bundling runs oldest first and exceptions are logged. The
+exception log at the thatch is reviewed before the exceptions are: a rule
+broken often is a rule written wrong.
+
+The bundling station is swept between cycles. What the sweeping takes away
+is not waste but the previous cycle's leavings, and the thatch ledger has
+confused the two before.
+
+Night turns at the thatch are logged separately. Folding them into the day
+figure once hid a standing shortfall in the rates for most of a quarter
+before anyone looked.
+
+Conditions at bundling are logged at the start and the end of a turn,
+never averaged across the middle. An average hides a thatch drifting
+steadily in one direction.
+
+The thatch keeps the superseded figure alongside the corrected one for a
+full cycle. A correction that erases its predecessor leaves the rates
+series looking as though it never moved.
+
+Two people witness the frame being zeroed before the first rates are
+measured. A zero witnessed by one person has failed twice at the thatch,
+both times in the same direction.
+
+Kept as a plain record of the rates. Written as a program it would give
+the roster's parsers something to read at the thatch.
