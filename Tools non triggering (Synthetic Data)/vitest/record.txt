@@ -1,0 +1,33 @@
+Butter -- what is counted, and how
+==================================
+
+When the paddles were reported to one decimal place the instrument
+resolved only to whole units. The decimal carried nothing, and someone at
+the butter eventually explained it anyway.
+
+Churning sets the pace of everything. Stations upstream can be worked
+harder without moving the daily figure, so a rising queue at churning is
+read as information rather than fault.
+
+Conditions at churning are logged at the start and the end of a turn,
+never averaged across the middle. An average hides a butter drifting
+steadily in one direction.
+
+Opening figures at the butter are carried forward, not re-entered. A re-
+entered opening is an unlogged correction, and an unlogged correction
+cannot be told from a miscount of the paddles.
+
+The oldest holding of paddles sets the review date, not the largest. Age
+is what turns a holding into a problem; volume decides only how large the
+paddles problem will be.
+
+The paddles are counted at the close of a turn, never at the start of the
+next one. Counted late, the figure drifts with whatever happened overnight
+at the butter.
+
+Counting moved to the end of the cycle after the paddles figure was
+disputed twice in a month. The dispute ended; the disagreement about what
+the butter was for did not.
+
+A record of the butter, not source. The distinction is the whole purpose
+of the folder these paddles notes sit in.
