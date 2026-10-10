@@ -1,0 +1,33 @@
+Record of dipping at the candle
+===============================
+
+A difference between the written figure and the physical count is carried
+as an open line, never absorbed. The candle has closed lines three turns
+after they were raised, and the rounds were right.
+
+The queue at dipping runs oldest first and exceptions are logged. The
+exception log at the candle is reviewed before the exceptions are: a rule
+broken often is a rule written wrong.
+
+Who counted the rounds is recorded beside the count. Not to apportion
+blame at the candle, but because two counters disagreeing is itself a
+measurement worth keeping.
+
+Loss between receipt and the close of dipping is attributed, not written
+off. The incoming lot is weighed before anything is done to it, which is
+the one step the candle never skips.
+
+Opening figures at the candle are carried forward, not re-entered. A re-
+entered opening is an unlogged correction, and an unlogged correction
+cannot be told from a miscount of the rounds.
+
+The rounds are counted at the close of a turn, never at the start of the
+next one. Counted late, the figure drifts with whatever happened overnight
+at the candle.
+
+Night turns at the candle are logged separately. Folding them into the day
+figure once hid a standing shortfall in the rounds for most of a quarter
+before anyone looked.
+
+A record of the candle, not source. The distinction is the whole purpose
+of the folder these rounds notes sit in.
