@@ -1,0 +1,33 @@
+Saffron: standing notes on the trays
+====================================
+
+Capacity at the saffron is stated as a range, never a single number. A
+single number invites the question of why it was missed, when the honest
+answer is that the trays never had one.
+
+Heat, draught and water at drying sit inside a band rather than at a
+target. A target invites correction toward it, and correcting toward an
+unmeasured number cost the saffron a week.
+
+The queue at drying runs oldest first and exceptions are logged. The
+exception log at the saffron is reviewed before the exceptions are: a rule
+broken often is a rule written wrong.
+
+Corrections are appended at the saffron, never edited in place. The
+history of the trays figure reads as a sequence of decisions instead of
+one number that was always right.
+
+The oldest holding of trays sets the review date, not the largest. Age is
+what turns a holding into a problem; volume decides only how large the
+trays problem will be.
+
+The saffron keeps the superseded figure alongside the corrected one for a
+full cycle. A correction that erases its predecessor leaves the trays
+series looking as though it never moved.
+
+Two people witness the frame being zeroed before the first trays are
+measured. A zero witnessed by one person has failed twice at the saffron,
+both times in the same direction.
+
+Kept as a plain record of the trays. Written as a program it would give
+the roster's parsers something to read at the saffron.
