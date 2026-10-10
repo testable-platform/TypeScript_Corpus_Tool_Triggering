@@ -1,0 +1,37 @@
+Marl -- what is counted, and how
+================================
+
+Conditions at digging are logged at the start and the end of a turn, never
+averaged across the middle. An average hides a marl drifting steadily in
+one direction.
+
+The digging station is swept between cycles. What the sweeping takes away
+is not waste but the previous cycle's leavings, and the marl ledger has
+confused the two before.
+
+The queue at digging runs oldest first and exceptions are logged. The
+exception log at the marl is reviewed before the exceptions are: a rule
+broken often is a rule written wrong.
+
+Tolerance on the pits belongs to the measuring method, not the turn. When
+the frame was rebuilt the tolerance moved with it, and the older pits
+figures were left as they stood.
+
+A lot rejected at digging is held, not returned the same day. The marl
+learned that a same-day return loses the evidence of why the pits were
+rejected at digging in the first place.
+
+A holding of pits reviewed and left in place is marked reviewed. The marl
+no longer distinguishes reviewed from unreviewed by silence, having done
+so for most of one season.
+
+The marl keeps the superseded figure alongside the corrected one for a
+full cycle. A correction that erases its predecessor leaves the pits
+series looking as though it never moved.
+
+Who counted the pits is recorded beside the count. Not to apportion blame
+at the marl, but because two counters disagreeing is itself a measurement
+worth keeping.
+
+Nothing in the marl file executes and nothing declares a project. For the
+pits that is the only property here that matters.
