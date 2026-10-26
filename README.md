@@ -1,49 +1,35 @@
-# TypeScript Tool-Evaluation Corpus
+# TypeScript Corpus -- Tool Triggering (Synthetic Data)
 
 `main` carries only this overview -- it holds no project code. Every other
-branch in this repository is a complete, independently buildable project for
-one exact combination of Node version, bundler (`esbuild`/`Rollup`/`Vite`), package manager (`npm`/`pnpm`/`bun`/`yarn (Berry)`) and architecture (`Monolith`/`Microservices`).
+branch in this repository is one cell of `testable-platform/typescript-corpus`, split out to carry
+only the `Tool Triggering (Synthetic Data)/` folder (plus that branch's own build scaffolding).
 
-This repository consolidates what used to be 45 separate small repositories
-into one repository holding all 216 branches, so the full corpus for this
-language lives in a single place.
+This repository was produced by splitting `testable-platform/typescript-corpus` by task folder.
+`testable-platform/typescript-corpus` itself was not modified by this split and still holds the
+full combined corpus.
+
+## Scope
+
+This repo covers every family/bundler/package-manager/architecture combination (216 branches).
 
 ## Branch naming
 
-Every branch name encodes its own identity, so the name alone tells you what
-it is without needing to open it:
+Branch names are unchanged from `testable-platform/typescript-corpus`:
 
 ```
-TS_V{ver}_{BUNDLER}_{PKGMGR}_{ARCH}
+TS_V{family}_{BUNDLER}_{PACKAGE_MANAGER}_{ARCHITECTURE}
 ```
-
-## Versions in this corpus
-
-9 Node versions, 24 branches each (one per bundler x package manager x
-architecture combination):
-
-| Node version | Branches |
-|---|---|
-| 12 | 24 |
-| 14 | 24 |
-| 16 | 24 |
-| 18 | 24 |
-| 20 | 24 |
-| 21 | 24 |
-| 22 | 24 |
-| 24 | 24 |
-| 26 | 24 |
 
 ## Finding a branch
 
-Each branch's own `README.md` describes its exact cell (version, bundler,
-package manager, architecture) and its full tool roster. `dataset.json` on
-each branch is the machine-readable answer key for that cell.
+Each branch's own `README.md` describes its exact cell (Node family, bundler,
+package manager, architecture) and its tool roster, trimmed to the parts
+relevant to `Tool Triggering (Synthetic Data)/`. `dataset.json` on each branch is the
+machine-readable answer key for that cell (unmodified by this split -- it
+still describes the branch's original full tool/5-folder state).
 
 ## History
 
-Branches were moved into this repository by relocating their existing git
-history under a new name -- every commit, author, date and
-`Co-authored-by:` trailer is unchanged from before consolidation. Nothing
-was squashed or rewritten, so tools that read commit history (churn,
-ownership, `pydriller`, etc.) see the same signal they always did.
+Each branch's commit history is carried over unchanged from `testable-platform/typescript-corpus`,
+with one additional commit on top that removes the folders not relevant to
+this repo. Nothing was squashed or rewritten.
