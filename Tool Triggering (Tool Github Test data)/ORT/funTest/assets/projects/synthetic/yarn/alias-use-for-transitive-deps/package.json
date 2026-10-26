@@ -1,7 +1,0 @@
-{
-  "name": "project-with-alias-use-for-transitive-deps",
-  "type": "module",
-  "dependencies": {
-    "jackspeak": "^3.1.2"
-  }
-}
