@@ -1,1 +1,2 @@
 * text=auto eol=lf
+"Tool Triggering (Synthetic Data)/**/*.sh" linguist-detectable=false
